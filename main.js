@@ -1,1 +1,1 @@
-let liczby = [3,5,4,8]
+let liczby = [3,5,4,8];
